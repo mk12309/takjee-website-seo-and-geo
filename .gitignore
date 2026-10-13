@@ -1,8 +1,12 @@
-# Excel Files (Private Plan - Do not push)
+# Private Plans, Audits & Document Files (Do not push)
 *.xlsx
 *.xls
 ~$*
 *.zip
+*.pdf
+
+# Internal Dev/Audit report
+audit-report.html
 
 # OS and temporary files
 .DS_Store
