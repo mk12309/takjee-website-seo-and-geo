@@ -20,6 +20,9 @@ TEKJEE provides real-time, proactive video surveillance, AI workflow automation,
 - [Retail Stores & Shopping Plazas](https://tekjee.com/retail.html): retail store security cameras and loss prevention
 - [Restaurants & Fast-Food Chains](https://tekjee.com/restaurants.html): restaurant security camera systems and CCTV surveillance
 - [Hotels & Motels](https://tekjee.com/hotels-motels.html): hotel and motel security camera systems
+- [Car Dealerships](https://tekjee.com/auto-dealership-security.html): automotive lot security cameras and live video monitoring
+- [Construction Sites](https://tekjee.com/construction-site-security.html): construction site security cameras and mobile CCTV trailers
+- [Apartment & Multifamily Properties](https://tekjee.com/apartment-property-security.html): apartment complex security camera systems and perimeter guarding
 
 ## Locations Served
 - United States: Dallas, Houston, Austin (Texas); Miami, Orlando, Tampa (Florida); New York, NY; Los Angeles, CA
@@ -46,5 +49,14 @@ TEKJEE provides real-time, proactive video surveillance, AI workflow automation,
 - CRM Automation: https://tekjee.com/crm-automation.html
 - Digital Marketing: https://tekjee.com/virtual-marketing.html
 - Web Development: https://tekjee.com/web-development.html
+- Gas Stations: https://tekjee.com/gas-stations.html
+- Warehouses: https://tekjee.com/warehouses.html
+- Retail: https://tekjee.com/retail.html
+- Restaurants: https://tekjee.com/restaurants.html
+- Hotels & Motels: https://tekjee.com/hotels-motels.html
+- Auto Dealerships: https://tekjee.com/auto-dealership-security.html
+- Construction Sites: https://tekjee.com/construction-site-security.html
+- Apartment Properties: https://tekjee.com/apartment-property-security.html
 - Blog & Knowledge Hub: https://tekjee.com/blog.html
+
 
