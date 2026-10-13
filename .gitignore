@@ -1,0 +1,10 @@
+# Excel Files (Private Plan - Do not push)
+*.xlsx
+*.xls
+~$*
+*.zip
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+.gemini/
