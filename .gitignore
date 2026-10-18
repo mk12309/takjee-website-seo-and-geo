@@ -12,3 +12,6 @@ audit-report.html
 .DS_Store
 Thumbs.db
 .gemini/
+
+*.ogg
+*.wav
