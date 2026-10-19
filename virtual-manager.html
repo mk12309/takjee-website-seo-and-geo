@@ -407,39 +407,81 @@
   <section class="pg-cta" style="--accent-page:#8a2bff">
     <div class="wrap">
       <div class="pg-cta-box pg-reveal">
-        <h2>Deploy a Dedicated Virtual Operations Manager Today</h2>
-        <p>Eliminate store management blind spots, reduce administrative overhead by up to 60%, and ensure 100% daily compliance across all locations.</p>
+        <h2>Ready to deploy a virtual manager for your business?</h2>
+        <p>Tell TEKJEE about your business and operations. TEKJEE will review your current facility workflows and propose a dedicated virtual management plan.</p>
         <div class="hero-actions">
-          <a class="btn btn-light" href="index.html#contact">Schedule an Operations Audit</a>
-          <a class="btn btn-outline-light" href="blog.html">Read Knowledge Hub</a>
+          <a class="btn btn-light" data-book="consult" href="mailto:support@tekjee.com?subject=Virtual%20Management%20consult">Book a consult</a>
+          <a class="btn btn-outline-light" href="index.html#services">See all services</a>
         </div>
       </div>
     </div>
   </section>
 </main>
 
-<footer class="footer">
+<footer>
   <div class="wrap footer-inner">
-    <div class="footer-brand">
-      <a class="logo" href="index.html">
-        <img class="logo-mark" src="assets/logo-mark.webp" alt="TEKJEE logo" width="48" height="63">
-        TEKJEE
-      </a>
-      <p class="footer-tagline">AI Automation, Remote Camera Surveillance, CRM Automation, Web Development and Digital Marketing.</p>
+    <div class="logo">
+      <img class="logo-mark" src="assets/logo-mark.webp" alt="TEKJEE Technologies official logo" width="48" height="63">
+      TEKJEE
     </div>
     <div class="footer-links">
-      <a href="camera-monitoring.html">Camera Surveillance</a>
-      <a href="virtual-manager.html">Virtual Management</a>
-      <a href="ai-automation.html">AI Automation</a>
-      <a href="web-development.html">Web Development</a>
-      <a href="crm-automation.html">CRM Automation</a>
-      <a href="virtual-marketing.html">Digital Marketing</a>
+      <a href="index.html#services">Services</a>
+      <a href="index.html#approach">Approach</a>
       <a href="blog.html">Blog</a>
+      <a href="index.html#faq">FAQ</a>
       <a href="index.html#contact">Contact</a>
     </div>
     <span style="font-family:var(--font-mono);font-size:.78rem;color:var(--text-dim);">© 2026 TEKJEE</span>
   </div>
 </footer>
+<!--BOT-->
+<div class="bot" id="tekBot" data-pose="wave">
+  <section class="bot-panel" id="tekBotPanel" aria-label="TEKJEE assistant chat" hidden>
+    <header class="bot-head-bar">
+      <span class="bot-mini"><svg viewBox="16 4 108 84" aria-hidden="true" focusable="false"><circle cx="24" cy="50" r="10" fill="#1c3f8f"/><circle cx="116" cy="50" r="10" fill="#1c3f8f"/><rect x="26" y="20" width="88" height="64" rx="30" fill="#fff"/><rect x="35" y="29" width="70" height="46" rx="22" fill="#0c2340"/><circle cx="55" cy="49" r="9" fill="#5ad1ff"/><circle cx="85" cy="49" r="9" fill="#5ad1ff"/><path d="M60 62 Q70 70 80 62" fill="none" stroke="#5ad1ff" stroke-width="3" stroke-linecap="round"/></svg></span>
+      <span class="bot-title"><strong>TEKJEE Assistant</strong><small>Ask about TEKJEE and its services</small></span>
+      <button class="bot-close" type="button" aria-label="Close chat">×</button>
+    </header>
+    <div class="bot-log" id="tekBotLog" role="log" aria-live="polite"></div>
+    <div class="bot-chips" id="tekBotChips"></div>
+    <form class="bot-form" id="tekBotForm" autocomplete="off">
+      <label class="sr-only" for="tekBotInput">Type your message</label>
+      <input id="tekBotInput" type="text" placeholder="Type a message..." maxlength="300">
+      <button type="submit" aria-label="Send message">➤</button>
+    </form>
+  </section>
+  <div class="bot-bubble" id="tekBotBubble">Hi! Need help finding a service?</div>
+  <button class="bot-btn" type="button" aria-label="Open the TEKJEE assistant chat" aria-expanded="false" aria-controls="tekBotPanel">
+    <svg class="bot-art" viewBox="0 0 140 170" aria-hidden="true" focusable="false">
+      <defs>
+        <linearGradient id="botWhite" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#cfe0f3"/></linearGradient>
+        <linearGradient id="botNavy" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c3f8f"/><stop offset="0" stop-color="#0c2340"/></linearGradient>
+        <radialGradient id="botEye" cx=".4" cy=".35" r=".8"><stop offset="0" stop-color="#e9fbff"/><stop offset=".35" stop-color="#5ad1ff"/><stop offset="1" stop-color="#1e7dff"/></radialGradient>
+        <filter id="botGlow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+      </defs>
+      <ellipse cx="70" cy="163" rx="34" ry="5" fill="#0c2340" opacity=".18"/>
+      <rect x="50" y="128" width="14" height="24" rx="7" fill="url(#botNavy)"/><rect x="76" y="128" width="14" height="24" rx="7" fill="url(#botNavy)"/>
+      <ellipse cx="57" cy="153" rx="13" ry="7" fill="url(#botWhite)" stroke="#9db8d8" stroke-width="1"/><ellipse cx="83" cy="153" rx="13" ry="7" fill="url(#botWhite)" stroke="#9db8d8" stroke-width="1"/>
+      <g class="arm-l"><rect x="27" y="84" width="14" height="38" rx="7" fill="url(#botWhite)" stroke="#9db8d8" stroke-width="1"/><circle cx="34" cy="124" r="8" fill="url(#botNavy)"/></g>
+      <rect x="38" y="76" width="64" height="58" rx="26" fill="url(#botWhite)" stroke="#9db8d8" stroke-width="1"/>
+      <rect x="52" y="90" width="36" height="28" rx="12" fill="url(#botNavy)"/>
+      <circle cx="70" cy="104" r="7" fill="url(#botEye)" filter="url(#botGlow)"/>
+      <g class="bot-head">
+        <line x1="70" y1="10" x2="70" y2="22" stroke="#9db8d8" stroke-width="3" stroke-linecap="round"/>
+        <circle cx="70" cy="9" r="5" fill="url(#botEye)" filter="url(#botGlow)"/>
+        <circle cx="24" cy="50" r="10" fill="url(#botNavy)"/><circle cx="116" cy="50" r="10" fill="url(#botNavy)"/>
+        <rect x="26" y="20" width="88" height="64" rx="30" fill="url(#botWhite)" stroke="#9db8d8" stroke-width="1"/>
+        <rect x="35" y="29" width="70" height="46" rx="22" fill="url(#botNavy)"/>
+        <g class="bot-eyes" filter="url(#botGlow)"><circle cx="55" cy="49" r="9" fill="url(#botEye)"/><circle cx="85" cy="49" r="9" fill="url(#botEye)"/></g>
+        <path d="M60 62 Q70 70 80 62" fill="none" stroke="#5ad1ff" stroke-width="3" stroke-linecap="round"/>
+      </g>
+      <g class="arm-r"><rect x="99" y="84" width="14" height="38" rx="7" fill="url(#botWhite)" stroke="#9db8d8" stroke-width="1"/><circle cx="106" cy="124" r="8" fill="url(#botNavy)"/></g>
+      <text class="bot-q" x="98" y="30" font-family="Unbounded, Arial Black, sans-serif" font-size="34" font-weight="800" fill="#5ad1ff" filter="url(#botGlow)">?</text>
+    </svg>
+  </button>
+</div>
+<!--/BOT-->
+
 <script src="js/page.js" defer></script>
 <script src="js/wd-hero-video.js" defer></script>
 </body>
