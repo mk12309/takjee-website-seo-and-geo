@@ -68,7 +68,6 @@ TEKJEE provides real-time, proactive video surveillance, AI workflow automation,
 - Blog & Knowledge Hub: https://tekjee.com/blog.html
 
 ## Knowledge Hub & Indirect Guides
-- [Commercial Security Camera Installation Guide](https://tekjee.com/blog/commercial-security-camera-installation-guide.html)
 - [Security Camera Installation Guide](https://tekjee.com/blog/security-camera-installation-guide.html)
 - [Commercial CCTV Installation Guide](https://tekjee.com/blog/commercial-cctv-installation-guide.html)
 - [Los Angeles Security Camera Installation Guide](https://tekjee.com/blog/los-angeles-security-camera-installation-guide.html)
