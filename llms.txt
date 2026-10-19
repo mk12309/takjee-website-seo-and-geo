@@ -80,6 +80,7 @@ TEKJEE provides real-time, proactive video surveillance, AI workflow automation,
 - [CRM Workflow Automation Guide](https://tekjee.com/blog/crm-workflow-automation-guide.html)
 - [Lead Management Automation Guide](https://tekjee.com/blog/lead-management-automation-guide.html)
 - [Virtual Administrative Support for Business Guide](https://tekjee.com/blog/virtual-administrative-support-guide.html)
+- [Virtual Manager for Business Operations Guide](https://tekjee.com/blog/virtual-manager-business-operations.html)
 - [Retail Store Back Office Management Guide](https://tekjee.com/blog/retail-store-back-office-management-guide.html)
 - [Digital Marketing Agency for Small Business Guide](https://tekjee.com/blog/digital-marketing-agency-small-business-guide.html)
 - [SEO Agency UK & Generative Optimization Guide](https://tekjee.com/blog/seo-agency-uk-generative-optimization.html)
